@@ -19,7 +19,7 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
+  name = "Anders Sjørslev Schmidt"
   role = "Professor of Artificial Intelligence"
   organization = "Stanford University"
   organization_url = ""
