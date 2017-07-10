@@ -1,6 +1,6 @@
 baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
-title = "Academic"
-copyright = "&copy; 2016 Your Name"
+title = "Health & data Science"
+copyright = "&copy; 2016 Anders Sjørslev Schmidt"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,8 +20,8 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Anders Sjørslev Schmidt"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  role = "MD/PhD student and Data Science Enthusiasts"
+  organization = "Aarhus University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
