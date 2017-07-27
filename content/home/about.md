@@ -31,15 +31,15 @@ weight = 1
  course = "Research Fellow"
  institution = "Randers Regional Hospital"
  year = 2014
- 
+
 [[education.courses]]
   course = "MB (MBSc) in Medicine"
   institution = "Aarhus University"
   year = 2013
- 
+
 
 +++
 
 # Biography
 
-Hi, I am Anders. I am a PhD Candidate in medical sciences and M.D. student. My interests are clinical trials, data science and data carpentry. I work with clincal data in cardiology.  
+Hi, I am Anders. I am a PhD Candidate in medical sciences and M.D. student. My interests are clinical trials, data science and data carpentry. I work with clinical data in cardiology.  
