@@ -21,11 +21,29 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Atrial Fibrillation</title>
+      <link>/tags/atrial-fibrillation/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/atrial-fibrillation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cardioversion</title>
+      <link>/tags/cardioversion/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cardioversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical Trial</title>
+      <link>/tags/clinical-trial/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/clinical-trial/</guid>
       <description></description>
     </item>
     

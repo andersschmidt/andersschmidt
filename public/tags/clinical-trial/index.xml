@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clinical Trial on Health &amp; Data Science</title>
+    <link>/tags/clinical-trial/</link>
+    <description>Recent content in Clinical Trial on Health &amp; Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Anders Sjørslev Schmidt</copyright>
+    <lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/clinical-trial/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cardioversion Efficacy</title>
+      <link>/project/code/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/code/</guid>
+      <description>&lt;p&gt; The CODE project &lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
