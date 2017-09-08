@@ -12,8 +12,12 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
+    "Cardiology: Arrhythmias",
+    "Emergency Medicine",
+    "Defibrillation & cardioversion",
+    "Clinical Trials", 
     "Data Science",
-    "Clinical Trials"
+    "Open Data"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -42,4 +46,7 @@ weight = 1
 
 # Biography
 
-Hi, I am Anders. I am a PhD Candidate in medical sciences and M.D. student. My interests are clinical trials, data science and data carpentry. I work with clinical data in cardiology.  
+Hi, I am Anders. I am a PhD-candidate in medical sciences and a M.D. student. Browse down my site to view my current projects and thoughts. 
+
+I do clinical studies to improve health of patients with cardiac rhythm disorders - and smaller projects on Data Science!
+

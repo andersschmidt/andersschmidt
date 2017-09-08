@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Teaching"
+title = ""
 subtitle = ""
 widget = "custom"
 
@@ -14,14 +14,6 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+September 7th, 2017: "Motivation for pre-graduate research - what keep us going?", Aarhus University, DK
 
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+February 20th, 2017: "Treatment of atrial fibrillation in 2017: Anticoagulation", Regional Hosp Randers, DK
