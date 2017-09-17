@@ -16,7 +16,8 @@
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/2017-07-27-fftrees-in-medicine/</guid>
-      <description>&lt;p&gt;Turn a clinical dataset into a descision making tree a doctor can understand.&lt;/p&gt;
+      <description>&lt;p&gt;As medcial doctors, we rely on making fast and good descisions about patient care.&lt;/p&gt;
+&lt;p&gt;The descision tree can be created and explored through the &lt;em&gt;FFTrees&lt;/em&gt; package (available on CRAN) created by Dr. Nathaniel D. Philips. The package was demonstrated at a UseR! 2017 (&lt;a href=&#34;https://channel9.msdn.com/Events/useR-international-R-User-conferences/useR-International-R-User-2017-Conference/FFTrees-An-R-package-to-create-visualise-and-use-fast-and-frugal-decision-trees&#34;&gt;presentation&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
