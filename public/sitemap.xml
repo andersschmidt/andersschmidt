@@ -95,8 +95,17 @@
     
     <url>
     
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/project/chess/</loc>
+      <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/af48/</loc>
+      <lastmod>2016-03-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -114,7 +123,7 @@
     <url>
     
       <loc>/tags/atrial-fibrillation/</loc>
-      <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+      <lastmod>2016-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -124,7 +133,7 @@
     <url>
     
       <loc>/tags/cardioversion/</loc>
-      <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+      <lastmod>2016-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -143,17 +152,7 @@
     <url>
     
       <loc>/tags/clinical-trial/</loc>
-      <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2016-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -193,7 +192,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2016-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

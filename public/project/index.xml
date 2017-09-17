@@ -7,20 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Anders Sjørslev Schmidt</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>The CHESS Trial: Go high or low? - in cardioversion of atrial fibrillation</title>
+      <link>/project/chess/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/example-external-project/</guid>
-      <description></description>
+      <guid>/project/chess/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;In the CHESS trial we aim to investigate if the cardioversion success can be improved in patients with atrial fibrillation by changing the recommended shock energies?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Atrial fibrillation is a major health concern. The common heart rhythm disorder carries a substantially increased risk of death from stroke and heart failure. Cardioversion is a pivotal treatment for reducing atrial fibrillation burden. However, the treatment is not always successful. Standard treatment uses a low-energy escalating shocks, but it is unknown if using high-energy shocks improves the success, without compromising safety.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How is the study conducted?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a Prospective, randomized clinical trial enrolling patients admitted for elective cardioversion of atrial fibrillation. Patients are randomized to either: 1) High energy shocks using 360-360-360 J or 2) Standard escalating shocks using 125-150-200 J. All cardioversion attempts will be performed with Lifepak 20 (biphasic truncated exponential shocks), Physio-Control Inc., USA, through self-adhesive gel electrodes. The primary endpoint is cardioversion efficacy, i.e. the proportion of patients in sinus rhythm after one minute. Safety will be evaluated by electrocardiographic measurements, echocardiographic recordings, and measurement of changes in high-sensitive troponin I. We estimate a sample size of 276 patients to be able to refuse the null-hypothesis of no or less than 10% difference between the treatments.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are the perspectives?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We hypothesize that high energy shocks are more efficient in cardioverting atrial fibrillation compared with standard escalating shocks, without compromising safety. An improved success following cardioversion will have profound implications for the atrial fibrillation patient.&lt;/p&gt;
+
+&lt;p&gt;Funding: The study is supported by Randers Regional Hospital and Aarhus University.&lt;/p&gt;
+
+&lt;p&gt;Trial Registration: &lt;a href=&#34;https://www.clinicaltrials.gov&#34; target=&#34;_blank&#34;&gt;https://www.clinicaltrials.gov&lt;/a&gt;, Unique Identifier: NCT02923414.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Cardioversion Efficacy</title>
+      <title>The AF48 Trial: Challenging the 48 hour limit</title>
+      <link>/project/af48/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/af48/</guid>
+      <description>&lt;p&gt; The CODE project &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The CODE Study</title>
       <link>/project/code/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       

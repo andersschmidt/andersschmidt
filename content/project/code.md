@@ -3,10 +3,10 @@
 date = "2016-03-01"
 
 # Project title.
-title = "Cardioversion Efficacy"
+title = "The CODE Study"
 
 # Project summary to display on homepage.
-summary = "CODE Study: Cardioversion efficacy using pulsed and truncated exponential waveforms"
+summary = "Cardioversion efficacy using pulsed or truncated exponential biphasic waveforms"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "AED.png"
